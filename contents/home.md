@@ -1,12 +1,11 @@
-He is currently pursuing a Master's Degree in computer science, at School of Computer Science and Technology, China University of Mining and Technology.
+Currently, I am a 4th-year student studying Physics at Imperial College London. My interests lie in Particle Physics and Machine Learning.
 
 #### Email
-sli[at]cumt.edu.cn
+tomtravis2001@gmail.com
 
 #### Education
-2022.08 - present, Computer Science and Technology, School of Computer Science and Technology, China University of Mining and Technology.
-
-2018.08 - 2022.06, Data Science and Big Data Technology, School of Computer Science and Technology, China University of Mining and Technology.
+2020-2024 Imperial College London: Physics with Theoretical Physics
+2017-2019 Bristol Cathedral Choir School
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Kalman Filters, Neutrino Physics, Flavour Physics

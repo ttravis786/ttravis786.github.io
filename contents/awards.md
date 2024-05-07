@@ -1,3 +1,3 @@
-- Best Undergraduate Research Proposal 2024
-
-- Ogden Physics Prize, 2016.
+- Best Undergraduate Research Proposal (ICL) 2024
+- Runner's up Best Summer Project (ICL) 2020
+- Ogden Physics Prize 2016

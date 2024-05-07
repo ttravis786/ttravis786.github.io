@@ -5,7 +5,6 @@ tomtravis2001@gmail.com
 
 #### Education
 2020-2024 Imperial College London: Physics with Theoretical Physics
-2017-2019 Bristol Cathedral Choir School
 
 #### Research Interests
 Deep Learning, Kalman Filters, Neutrino Physics, Flavour Physics
